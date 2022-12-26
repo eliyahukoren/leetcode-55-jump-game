@@ -1,0 +1,16 @@
+{
+  "name": "55_JumpGame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eliyahu Koren <elik.koren@gmail.com>",
+  "license": "MIT",
+  "categories": [
+    "LeetCode",
+    "Javascript",
+    "JumpGame",
+    "Algorithm"
+  ],
+  "scripts": {
+    "test": "mocha"
+  }
+}
